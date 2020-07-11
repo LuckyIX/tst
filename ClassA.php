@@ -12,6 +12,11 @@ class A
      */
     private $name;
 
+    /**
+     * @var string
+     */
+    private $date;
+
     public function setId(int $id): self
     {
         $this->id = $id;
