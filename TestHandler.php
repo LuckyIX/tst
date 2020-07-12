@@ -11,4 +11,9 @@ class TestHandler
     {
         return true;
     }
+
+    public function issue4Handler()
+    {
+        return 'master';
+    }
 }
