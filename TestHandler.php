@@ -14,6 +14,6 @@ class TestHandler
 
     public function issue4Handler()
     {
-        return 'master';
+        return 'branch';
     }
 }
