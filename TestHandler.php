@@ -6,4 +6,9 @@ class TestHandler
     {
         return true;
     }
+
+    public function issue2handler()
+    {
+        return true;
+    }
 }
