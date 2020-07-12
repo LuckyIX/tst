@@ -11,4 +11,9 @@ class ClassB
      * @var string
      */
     private $name;
+
+    /**
+     * @var string
+     */
+    private $description;
 }
