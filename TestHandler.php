@@ -7,8 +7,9 @@ class TestHandler
         return true;
     }
 
-    public function issue2handler()
+    public function issue2Handler()
     {
-        return true;
+        $a = 1 + 2;
+        return $a;
     }
 }
