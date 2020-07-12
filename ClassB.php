@@ -18,4 +18,9 @@ class ClassB
     private $description;
 
     private $vendorCode;
+
+    public function getVendorCode()
+    {
+        return $this->vendorCode;
+    }
 }
