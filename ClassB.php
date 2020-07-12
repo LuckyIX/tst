@@ -16,4 +16,6 @@ class ClassB
      * @var string
      */
     private $description;
+
+    private $vendorCode;
 }
