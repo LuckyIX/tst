@@ -1,6 +1,6 @@
 <?php
 
-class ClassB
+class B
 {
     /**
      * @var int
